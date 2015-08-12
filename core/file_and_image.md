@@ -19,4 +19,4 @@ The widget for an image field allows you to configure:
 * Maximum image resolution/Minimum image resolution/Maximum upload size
   * Highly recommended that these fields reflect your designs and mockups. If you have not settled on a design yet, please be sure to make a task to come back to it.
  
-Like all fields, you can configure as many istances as you need.
+Like all fields, you can configure as many instances as you need.
