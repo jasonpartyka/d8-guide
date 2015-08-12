@@ -3,7 +3,7 @@
 * [Media Documentation](README.md)
 * Contributing
 * Drupal 8 Core
-  * File and Image Fields
+  * [File and Image Fields] (core/file_and_image.md)
   * WYSIWYG
   * Limitations
 * Browsing
