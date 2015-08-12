@@ -5,6 +5,10 @@ Files and images may be stored in either public or private locations on the web 
 Generally speaking, file fields are useful for providing files like text files, PDFs, spreadsheets, word processor documents, tar/gz/zip files. 
 
 The widget for a file field allows you to configure:
+*  Enable Display field
+   * Select this to have a link to your file render when the entity is viewed. If disabled, the file will still be attached to the entity, just not viewable.
+   * Files displayed by default
+     * This checkbox will appear if you have selected "Enable Display field".
 
 The widget for an image field allows you to configure:
 * Label: The field's title as presented to the end-user
@@ -14,3 +18,5 @@ The widget for an image field allows you to configure:
 * File directory: A location in your public or private directory (as configured earlier). Please do not ignore this field outright, especially if you are going to have many file or image fields.
 * Maximum image resolution/Minimum image resolution/Maximum upload size
   * Highly recommended that these fields reflect your designs and mockups. If you have not settled on a design yet, please be sure to make a task to come back to it.
+ 
+Like all fields, you can configure as many istances as you need.
